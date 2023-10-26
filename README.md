@@ -13,5 +13,8 @@ Me and my partner developed a foosball game utilizing an FPGA  (Field-Programmab
 *	 Multiple difficulty levels that increase progressively, with an increase in the number of goalkeepers for the opponent at each stage.
 ## Game Instruction:
 ![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/1bbffd92-df28-4f51-87fd-da264fb160ab)
+## Diagrams: 
+![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/d9f7007f-05d9-4612-8b64-c15eb8e34c25)
+![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/77686fac-7840-4b80-a1e2-1e2ff00f3d8d)
 
 
