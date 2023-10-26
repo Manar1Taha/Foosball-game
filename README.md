@@ -17,5 +17,6 @@ Me and my partner developed a foosball game utilizing an FPGA  (Field-Programmab
 ![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/d9f7007f-05d9-4612-8b64-c15eb8e34c25)
 ![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/77686fac-7840-4b80-a1e2-1e2ff00f3d8d)
 ## Screenshot of the game :
+![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/b053ce65-8973-4967-8a97-ce5e4e74759a)
 
 
