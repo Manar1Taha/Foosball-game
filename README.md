@@ -11,4 +11,5 @@ Me and my partner developed a foosball game utilizing an FPGA  (Field-Programmab
 *  Victory sounds.
 *	A game timer that ends in a loss, victory, or a draw.
 *	 Multiple difficulty levels that increase progressively, with an increase in the number of goalkeepers for the opponent at each stage.
+## Game Instruction:
 
