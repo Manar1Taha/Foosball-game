@@ -12,4 +12,5 @@ Me and my partner developed a foosball game utilizing an FPGA  (Field-Programmab
 *	A game timer that ends in a loss, victory, or a draw.
 *	 Multiple difficulty levels that increase progressively, with an increase in the number of goalkeepers for the opponent at each stage.
 ## Game Instruction:
+![image](https://github.com/Manar1Taha/Foosball-game/assets/103518417/2575c000-3ddd-4f47-bb13-7d720bdb4001)
 
