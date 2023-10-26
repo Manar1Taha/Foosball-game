@@ -1,4 +1,6 @@
-# Foosball-game
+# ** Foosball game Project **
+By: Manar Taha, Hani Sbehi.
+
 Me and my partner developed a foosball game utilizing an FPGA  (Field-Programmable Gate Array). The game includes an  automated player and a user-controlled player, with the gameplay  and scoring displayed on a screen.
 ## Features List: 
 *	3 rods for each player, one rod with a goalkeeper and two rods with 3 players each.
